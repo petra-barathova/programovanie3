@@ -1,0 +1,52 @@
+[
+{
+    "ID" : 1,
+    "Name" : "Felicia",
+    "Author" : "Marco",
+    "Genre": "Science fiction",
+    "Year" :2002,
+    "Publisher" : "Books.inc",
+    "Country": "England"  ,
+    "Pages" : 200
+},
+{
+    "ID" : 2,
+    "Name" : "Gegenteil",
+    "Author" : "Hans",
+    "Genre": "Fairytale",
+    "Year" :2004,
+    "Publisher" : "Buch.inc",
+    "Country": "Germany"  ,
+    "Pages" : 130
+},
+{
+    "ID" : 3,
+    "Name" : "Raven",
+    "Author" : "Peter",
+    "Genre": "Myth",
+    "Year" : 1984,
+    "Publisher" : "Books.inc",
+    "Country": "England"  ,
+    "Pages" : 45
+},
+{
+    "ID" : 4,
+    "Name" : "The Swan",
+    "Author" : "Michael",
+    "Genre": "Poem",
+    "Year" : 1995,
+    "Publisher" : "ABC.inc",
+    "Country": "Ireland"  ,
+    "Pages" : 456
+},
+{
+    "ID" : 5,
+    "Name" : "Black Widow",
+    "Author" : "Stan",
+    "Genre": "Fantasy",
+    "Year" : 1989,
+    "Publisher" : "Marvel.inc",
+    "Country": "USA"  ,
+    "Pages" : 25
+}
+]
